@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a4f7198-ad65-4101-a260-5788c08038dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Edge Detection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -174,6 +175,7 @@
       <workItem from="1594476119781" duration="3854000" />
       <workItem from="1594713024143" duration="7111000" />
       <workItem from="1594805229166" duration="1806000" />
+      <workItem from="1594884201566" duration="221000" />
     </task>
     <servers />
   </component>
