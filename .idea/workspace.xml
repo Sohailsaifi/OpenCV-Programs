@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a4f7198-ad65-4101-a260-5788c08038dd" name="Default Changelist" comment="" />
+    <list default="true" id="1a4f7198-ad65-4101-a260-5788c08038dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Color TrackBar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +176,8 @@
       <workItem from="1594713024143" duration="7111000" />
       <workItem from="1594805229166" duration="1806000" />
       <workItem from="1594884201566" duration="1293000" />
-      <workItem from="1594973061447" duration="1494000" />
+      <workItem from="1594973061447" duration="2127000" />
+      <workItem from="1595060003203" duration="58000" />
     </task>
     <servers />
   </component>
